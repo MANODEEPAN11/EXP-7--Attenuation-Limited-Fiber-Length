@@ -65,6 +65,36 @@ Using the power budget equation and the parameters below, determine the attenuat
 ---
 
 ## Analysis and Report
-  <img width="1468" height="1600" alt="image" src="https://github.com/user-attachments/assets/c9207d3c-edf8-412b-9278-e8eb170ceb6f" />
+Compare simulation results with pre-lab calculations and record observations.  
 
-- **Written Summary** of observations and explanations of differences.  
+Your report should contain:
+- **Cover Page**
+  - Title of the lab  
+  - Course name and number  
+  - Your name  
+
+- **Pre-lab Calculations**  
+
+- **Screenshots** of layout and results (including eye diagrams)  
+
+- **Summary Table** for each simulation:
+  | Fiber Length (km) | Received Power (dBm) | Q Factor | BER |
+  |-------------------|-----------------------|----------|-----|
+  
+
+- **Written Summary** of observations and explanations of differences.
+
+ ## TABULATION
+ <img width="619" height="325" alt="image" src="https://github.com/user-attachments/assets/c94b6675-b2df-4aac-9a81-60187a05f0b3" />
+
+
+ <img width="1600" height="688" alt="image" src="https://github.com/user-attachments/assets/ba065028-0ef9-4601-b656-7b269a03cae2" />
+
+ ## model graph
+ <img width="1125" height="388" alt="image" src="https://github.com/user-attachments/assets/bd67f968-baf3-49e4-8054-ac58f2a3e3d0" />
+
+
+## RESULT
+Calculated attenuation-limited fiber length ≈ 121 km based on a 23 dB allowable fiber loss.
+
+At 125% length (≈ 151 km), the system exceeds the power budget, leading to degraded performance (lower Q factor and higher BER).
